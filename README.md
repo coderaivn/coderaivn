@@ -1,5 +1,8 @@
 # 💫About Me :
 Hi there, I am currently living in Vietnam, a 2nd year student at Da Nang University of Economics majoring in Fintech.
+🔭 I'm passionate about Machine Learning and Data Engineering
+🥅 Favorite Quote: Never Too Late to Pursue Your Dreams
+⚡ Fun fact: I work in Singapore but travel to Vietnam every two weeks before Covid 😅
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/NguyenVanThienSonic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/thien-nguyen-495ba72ab) 
