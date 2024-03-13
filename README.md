@@ -1,8 +1,8 @@
 # 💫About Me :
 Hi there, I am currently living in Vietnam, a 2nd year student at Da Nang University of Economics majoring in Fintech.
 
--🔭 I am passionate about fields like machine learning and AI (artificial intelligence).
--🥅 Favorite Quote: On the way to success, there is no trace of lazy men.
+* 🔭 I am passionate about fields like machine learning and AI (artificial intelligence).
+* 🥅 **Favorite Quote**: On the way to success, there is no trace of lazy men.
 
 
 ## 🌐Socials
